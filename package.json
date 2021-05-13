@@ -1,8 +1,8 @@
 {
-  "name": "DVideo",
+  "name": "dvideo",
   "version": "0.1.0",
   "description": "Decentralized platform for video publishing",
-  "author": "Dapp University",
+  "author": "Verkyav Peter",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
